@@ -2,4 +2,4 @@ hello old friend
 
 blah
 hello again on line2
-this will be pushed to nathan branch in Github
+this will be pushed to nathan branch in Github and merged into main after approving pull request. 
